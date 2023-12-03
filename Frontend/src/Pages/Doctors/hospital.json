@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Madhav Netralaya - Eye Care Hospital",
+        "DESCRIPTIO": "Samaj Bhusan Griha Nirman Sahakari Sansthan Anji, Navjeevan Colony, Nagpur, Maharashtra 440015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.07490245819992, 21.11680456981348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mahatme Eye Bank and Eye Hospital",
+        "DESCRIPTIO": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.06527836572413, 21.104184464572302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Oke Eye Hospital - Eye Centre Nagpur",
+        "DESCRIPTIO": "98, Bajaj Nagar, Nagpur, Maharashtra 440010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.0573703386139, 21.11515120569905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Eye Hospital",
+        "DESCRIPTIO": "43M6+7HJ, Shankar Nagar, Ramdaspeth, Nagpur, Maharashtra 440010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.061061058136, 21.13468647917465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Drushti Eye Clinic and Squint Centre",
+        "DESCRIPTIO": "26, Naik Layout, Parsodi, Subhash Nagar, Nagpur, Maharashtra 440022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.04174915365982, 21.123077712965863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Shri Sai Eye Hospital",
+        "DESCRIPTIO": "Plot No. 1, Vikas Apartment, Ring Rd, Ward Number 3, Trimurtee Nagar, Nagpur, Maharashtra 440022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.03773665397699, 21.11720095025634]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Retina Insight Super-specialty Eye (RISE) Hospital - Dr. Ketan Saoji",
+        "DESCRIPTIO": "764, Plot No 1/A Hindustan Colony, Wardha Rd, Ajni Chowk, Nagpur, Maharashtra 440015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.07181143729056, 21.118401946694945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "KIMS-Kingsway Hospitals",
+        "DESCRIPTIO": "Medisearch Lifesciences Pvt. Ltd, 44, SPANV, Kingsway Rd, near Kasturchand Park, Nagpur, Maharashtra 440001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.08434271792096, 21.157228927957156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Evista Eye Care Centre",
+        "DESCRIPTIO": "14, 1, W Park Rd, Dhantoli, Nagpur, Maharashtra 440012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.07970786051528, 21.136415728508766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sheevam Netralaya (Superspeciality Retina Eye Care Centre)-Retina surgeon /Ophthalmologist /Cataract surgeon in Nagpur",
+        "DESCRIPTIO": "1st Floor, Midas Heights, Central Bazar Road, Ramdaspeth, Nagpur, Maharashtra 440010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.07558798756037, 21.13497470651906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Sarakshi Netralaya, Nagpur",
+        "DESCRIPTIO": "Plot No.19, Wardha Rd, Rajiv Nagar, Somalwada, Nagpur, Maharashtra 440025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.06794905622844, 21.104309640928715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Prism Eye And Heart clinic Nagpur",
+        "DESCRIPTIO": "Beside Bank of Baroda, WHC Road Aath Rasta Square, Laxminagar, Nagpur, Maharashtra 440020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.06412772120196, 21.12504312852988]
+      }
+    }
+  ]
+}
